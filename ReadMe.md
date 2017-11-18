@@ -11,7 +11,6 @@
 
 </div>
 
-<br>
 ## Introduction
 Swift-Weather is an iOS weather app powered by [Dark Sky](https://darksky.net/dev). The app provides current conditions, minute-by-minute rainfall predictions for the next hour and hour-by-hour forecasts for the next week. Originally written in Swift 2, the project has been updated for Swift 4.
 
